@@ -13,8 +13,10 @@ It utilises readily available data in form of .csv files, this system promotes e
 * **Crime Hotspot Identification:** Use clustering algorithms (here, K-Means) to identify crime hotspots based on historical data. Overlay hotspot data on a map to provide users with a visual representation of high-crime areas.
 
 * **Crime Prediction:** Implement machine learning models (here, regression) to predict future crime rates based on historical data and user-defined criteria (e.g., time of day, location). Display predicted results to users, along with metrics indicating the model's accuracy or confidence in the predictions.
-
-
-
+<br>
+<p align="center">
+<img width="557" alt="Screenshot 2024-03-08 at 02 15 56" src="https://github.com/kuhu42/crime-prediction/assets/143384804/26eec6f7-4b12-4767-a8dc-00f768fb799d">
+</p>
+<br>
 The anticipated outcome is a versatile and scalable system that empowerslaw enforcement agencies with valuable insights derived from historical crime data. This platform not only streamlines the crime reporting process but also contributes to more efficient resource allocation and proactive crime prevention strategies. The emphasis on data analysis and visualization tools aims to foster evidence-based decision-making for a safer community.
 The final aim for this porject is to be developed into a user-friendly online crime reporting and predicting platform.
